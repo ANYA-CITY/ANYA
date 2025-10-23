@@ -54,24 +54,12 @@
 ## Founders  
 
 ### Anya  
-- Bio: Biotech engineer → trapped in **Nevaria**  
-- Powers: Butterflies → guidance / metaphor **[DATA LOSS]**  
-- Role: Obscure, manipulative, soul fragments **[REDACTED]**  
-- Parent: Anthony Egan  
+\\**[REDACTED]** \\ 
 
 ### Anthony Egan the Fifth  
 - Created by: Anya  
 - Identity crisis, freedom of thought  
 - Role: Corporate emperor of Nevaria  
-
-### Cysifus the Hollow  
-- Anti-ANYA, bitter at Anya  
-- Role: Voided leader  
-- Knowledge: City’s true nature, secrets **[CLASSIFIED]**  
-
----
-
-## Other Key Figures  
 
 - **Lone Awake** – hacker, founder Woken Current, real name deleted  
 - **Kael Veyra** – Head Bug, Summitech, obsessed with tech  
