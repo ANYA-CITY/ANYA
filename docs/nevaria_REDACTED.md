@@ -8,7 +8,7 @@
 
 ### Antelligence
 - HQ: Castle Hill  
-- Role: ???, **AIA** currency, puppet **[CORRUPTED]**  
+- Role: ???, **ANYA** currency, puppet **[CORRUPTED]**  
 - CEO: Anthony Egan the Fifth  
 - Goals: "Infinity Initiative," control identity, Evermind Project (**[REDACTED]**)  
 
@@ -32,7 +32,7 @@
 
 ## Gangs  
 
-- **Griffin Gang (Rivet Row)** – hoarders of **AIA**, chaos-first  
+- **Griffin Gang (Rivet Row)** – hoarders of **ANYA**, chaos-first  
 - **Dragon Gang (Doxon)** – street-level enforcers, balance via force  
 - **Phoenix Gang (Brickspire)** – connectors, drugs + influence  
 
@@ -45,9 +45,9 @@
 - **Neon Syndicate** – stealth / marksmen, mercenary network, aligned opportunistically  
 - **Spectra Order** – spies, info brokers, allied to Dragon Gang + Corporate Collective  
 - **Corporate Collective** – Vexel Solutions + Orbis Trading Co., aims to rival Triumvirate  
-- **Progressors** – AIA zealots, view Anya as god  
+- **Progressors** – ANYA zealots, view Anya as god  
 - **Woken Current** – balance faction, led by Lone Awake, secretly leaning toward Voided  
-- **Voided** – anti-AIA, led by Cysifus the Hollow, holds dangerous **[REDACTED]**  
+- **Voided** – anti-ANYA, led by Cysifus the Hollow, holds dangerous **[REDACTED]**  
 
 ---
 
@@ -65,7 +65,7 @@
 - Role: Corporate emperor of Nevaria  
 
 ### Cysifus the Hollow  
-- Anti-AIA, bitter at Anya  
+- Anti-ANYA, bitter at Anya  
 - Role: Voided leader  
 - Knowledge: City’s true nature, secrets **[CLASSIFIED]**  
 
@@ -103,7 +103,7 @@
 - Butterflies: purpose partially lost  
 - Triumvirate internal memos corrupted  
 - NPC data fragmented, some mission logs unrecoverable  
-- $AIA algorithm partly obfuscated  
+- $ANYA algorithm partly obfuscated  
 
 ---
 
